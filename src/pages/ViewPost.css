@@ -1,0 +1,12 @@
+.post-img-div {
+  display: flex;
+  justify-content: center;
+}
+.post-img {
+  height: 30rem;
+  width: 50rem;
+}
+
+.post-body {
+  width: 80rem;
+}
