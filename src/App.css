@@ -1,7 +1,8 @@
 #root {
   max-width: 1280px;
-  margin: 0 20rem;
+  margin: 0 auto;
   padding: 2rem;
+  text-align: center;
 }
 
 .logo {
@@ -38,18 +39,4 @@
 
 .read-the-docs {
   color: #888;
-}
-
-.App {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-}
-
-.divider {
-  border: 0.5px solid #505050
-}
-
-.header-text {
-  margin-bottom: 0;
 }
